@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/edem_host/static/css/main.b735c91f.css",
-    "main.js": "/edem_host/static/js/main.ae0ea900.js",
+    "main.css": "/edem_host/static/css/main.5d3604d1.css",
+    "main.js": "/edem_host/static/js/main.1f841eb0.js",
     "index.html": "/edem_host/index.html",
-    "main.b735c91f.css.map": "/edem_host/static/css/main.b735c91f.css.map",
-    "main.ae0ea900.js.map": "/edem_host/static/js/main.ae0ea900.js.map"
+    "main.5d3604d1.css.map": "/edem_host/static/css/main.5d3604d1.css.map",
+    "main.1f841eb0.js.map": "/edem_host/static/js/main.1f841eb0.js.map"
   },
   "entrypoints": [
-    "static/css/main.b735c91f.css",
-    "static/js/main.ae0ea900.js"
+    "static/css/main.5d3604d1.css",
+    "static/js/main.1f841eb0.js"
   ]
 }
