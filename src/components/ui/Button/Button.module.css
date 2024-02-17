@@ -1,0 +1,14 @@
+.container {
+	width: 176px;
+	height: 48px;
+	background-color: #EBAE12;
+	border-radius: 36px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	cursor: pointer;
+}
+.title {
+	font-size: 1.25rem;
+	font-weight: bold;
+}

@@ -1,0 +1,29 @@
+.navbar {
+	width: 100%;
+	height: 98px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	position: fixed;
+	top: 0;
+	padding: 0 2vw;
+	border: 4px solid #fff;
+	border-radius: 0 0 32px 32px;
+	background-color: #360d62;
+}
+
+.logo {
+	width: 100px;
+	height: 100px;
+	cursor: pointer;
+}
+
+.links {
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+	text-align: center;
+	align-items: center;
+}
+.link {
+	font-size: 1.5rem;
+}
