@@ -2,9 +2,12 @@
 @tailwind components;
 @tailwind utilities;
 
+* {
+	cursor: none;
+}
+
 body {
 	width: 1120px;
-	min-height: 100vh;
 	margin: 0 auto;
 	color: #fff;
 	background: linear-gradient(
