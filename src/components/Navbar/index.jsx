@@ -26,7 +26,7 @@ function Navbar() {
 							Contact us
 						</a>
 					</div>
-					<Button title={'GET STARTED'} />
+					<Button title={'GET STARTED'} width={144} height={48} insetValue={'12em'} />
 				</div>
 			</div>
 		</div>

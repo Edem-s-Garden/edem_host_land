@@ -1,14 +1,13 @@
 .container {
-	width: 176px;
-	height: 48px;
-	background-color: #EBAE12;
-	border-radius: 36px;
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	cursor: pointer;
+	border: 2px solid #ebae12;
+	border-radius: 36px;
+	transition: all 1s ease-out;
 }
+
 .title {
-	font-size: 1.25rem;
+	font-size: 1rem;
 	font-weight: bold;
 }

@@ -20,7 +20,7 @@ const LandingSection = () => {
 					<p className={styles.text_sm}>
 						Got an idea for video? Record it! Want to share it with others? We have solution!
 					</p>
-					<Button title={'GET STARTED'} width={332} height={80} />
+					<Button title={'GET STARTED'} width={332} height={80} insetValue={'22em'} />
 				</div>
 
 				<div className={styles.imgs}>
