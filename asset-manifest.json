@@ -1,15 +1,18 @@
 {
   "files": {
-    "main.css": "/edem_host/static/css/main.3dbc5c1f.css",
-    "main.js": "/edem_host/static/js/main.4951ac8e.js",
+    "main.css": "/edem_host/static/css/main.18ad01d2.css",
+    "main.js": "/edem_host/static/js/main.5458332d.js",
+    "static/media/camera.png": "/edem_host/static/media/camera.dad1bba7051894e00576.png",
+    "static/media/paint.png": "/edem_host/static/media/paint.7cc5afbf1fd988995379.png",
+    "static/media/lock.png": "/edem_host/static/media/lock.8aa47b02c839839e492c.png",
     "static/media/keyboard.png": "/edem_host/static/media/keyboard.811d65e1e006256d6869.png",
     "static/media/monitor.png": "/edem_host/static/media/monitor.47a7bfbcbbcdcf13e4dd.png",
     "index.html": "/edem_host/index.html",
-    "main.3dbc5c1f.css.map": "/edem_host/static/css/main.3dbc5c1f.css.map",
-    "main.4951ac8e.js.map": "/edem_host/static/js/main.4951ac8e.js.map"
+    "main.18ad01d2.css.map": "/edem_host/static/css/main.18ad01d2.css.map",
+    "main.5458332d.js.map": "/edem_host/static/js/main.5458332d.js.map"
   },
   "entrypoints": [
-    "static/css/main.3dbc5c1f.css",
-    "static/js/main.4951ac8e.js"
+    "static/css/main.18ad01d2.css",
+    "static/js/main.5458332d.js"
   ]
 }
