@@ -1,0 +1,9 @@
+.container {
+	height: 472px;
+	background: linear-gradient(135deg, #4e2c85 0%, #593691 50%, #3d226a 100%);
+}
+.reasons {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-evenly;
+}
