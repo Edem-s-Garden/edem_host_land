@@ -1,0 +1,20 @@
+.container {
+	width: 100%;
+	position: relative;
+	top: -2px;
+	display: flex;
+	justify-content: space-between;
+	z-index: 99;
+}
+
+.line {
+	width: 266px;
+	height: 4px;
+	background-color: #fff;
+}
+.title {
+	position: relative;
+	top: -50%;
+	transform: translateY(-50%);
+	font-size: 80px;
+}
