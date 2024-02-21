@@ -8,6 +8,7 @@ const Body = () => {
 		<div className={styles.body}>
 			<LandingSection />
 			<WhySection />
+			<Feedback />
 		</div>
 	)
 }
