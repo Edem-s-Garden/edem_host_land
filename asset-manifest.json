@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/edem_host/static/css/main.18ad01d2.css",
-    "main.js": "/edem_host/static/js/main.5458332d.js",
+    "main.css": "/edem_host/static/css/main.e248db26.css",
+    "main.js": "/edem_host/static/js/main.6f75619e.js",
     "static/media/camera.png": "/edem_host/static/media/camera.dad1bba7051894e00576.png",
     "static/media/paint.png": "/edem_host/static/media/paint.7cc5afbf1fd988995379.png",
     "static/media/lock.png": "/edem_host/static/media/lock.8aa47b02c839839e492c.png",
     "static/media/keyboard.png": "/edem_host/static/media/keyboard.811d65e1e006256d6869.png",
     "static/media/monitor.png": "/edem_host/static/media/monitor.47a7bfbcbbcdcf13e4dd.png",
+    "static/media/contactUs.png": "/edem_host/static/media/contactUs.88f427ea44d3532076b1.png",
     "index.html": "/edem_host/index.html",
-    "main.18ad01d2.css.map": "/edem_host/static/css/main.18ad01d2.css.map",
-    "main.5458332d.js.map": "/edem_host/static/js/main.5458332d.js.map"
+    "main.e248db26.css.map": "/edem_host/static/css/main.e248db26.css.map",
+    "main.6f75619e.js.map": "/edem_host/static/js/main.6f75619e.js.map"
   },
   "entrypoints": [
-    "static/css/main.18ad01d2.css",
-    "static/js/main.5458332d.js"
+    "static/css/main.e248db26.css",
+    "static/js/main.6f75619e.js"
   ]
 }
