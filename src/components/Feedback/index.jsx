@@ -1,7 +1,7 @@
 import React from 'react'
 import { comments } from '../../utils/comments'
 import Field from '../Field'
-import Divider from '../ui/'
+import Divider from '../ui/Divider'
 import styles from './Feedback.module.css'
 import Button from '../ui/Button'
 

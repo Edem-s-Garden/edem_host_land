@@ -17,7 +17,7 @@ function Navbar() {
 						</a>
 					</div>
 					<div>
-						<a href='#reviews' className={styles.link}>
+						<a href='#feedback' className={styles.link}>
 							User reviews
 						</a>
 					</div>

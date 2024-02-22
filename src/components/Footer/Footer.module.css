@@ -1,0 +1,14 @@
+.container {
+    height: 104px;
+    background: linear-gradient(135deg,
+            #250E4B 0%,
+            #230E49 50%,
+            #2D145A 100%);
+}
+
+.copy {
+    font-size: 19px;
+    font-weight: 200;
+    text-align: center;
+    margin: 34px;
+}

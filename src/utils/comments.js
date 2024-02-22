@@ -1,9 +1,9 @@
-import monkey1 from '../icons/users/monkey1.png'
-import monkey2 from '../icons/users/monkey2.png'
-import monkey3 from '../icons/users/monkey3.png'
-import monkey4 from '../icons/users/monkey4.png'
-import monkey5 from '../icons/users/monkey5.png'
-import monkey6 from '../icons/users/monkey6.png'
+import monkey1 from '../img/users/monkey1.png'
+import monkey2 from '../img/users/monkey2.png'
+import monkey3 from '../img/users/monkey3.png'
+import monkey4 from '../img/users/monkey4.png'
+import monkey5 from '../img/users/monkey5.png'
+import monkey6 from '../img/users/monkey6.png'
 
 export const comments = [
 	{
