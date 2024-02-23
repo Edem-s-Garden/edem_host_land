@@ -7,7 +7,7 @@ import styles from './WhySection.module.css'
 function WhySection() {
 	return (
 		<div id='why_section' className={styles.container}>
-			<Divider title={"WHY EDEM'S GARDEN?"} />
+			<Divider title={"WHY EDEM'S GARDEN?"} fontSize={5}/>
 			<div className={styles.reasons}>
 				{reasons.map((reason) => {
 					return (
