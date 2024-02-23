@@ -8,7 +8,7 @@ import Button from '../ui/Button'
 function Feedback() {
 	return (
 		<div id='feedback' className={styles.container}>
-			<Divider title={'REVIEWS'} fontSize={5} />
+			<Divider title={'REVIEWS'}  />
 			<div className='field_container'>
 				<div className={styles.comments}>
 					{comments.slice(0, comments.length / 2).map((comment) => {

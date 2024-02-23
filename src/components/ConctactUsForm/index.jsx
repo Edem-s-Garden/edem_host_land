@@ -7,7 +7,7 @@ import Button from '../ui/Button'
 function ConctactUsForm() {
 	return (
 		<div id='contact_us' className={styles.container}>
-			<Divider title={'HAVE A QUESTION? ASK US'} fontSize={4.5} />
+			<Divider title={'HAVE A QUESTION? ASK US'} />
 			<div className={styles.form_container}>
 				<img alt='Contact Us' src={contactPic} className={styles.pic} />
 				<form className={styles.form}>

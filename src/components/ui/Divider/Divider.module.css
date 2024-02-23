@@ -1,21 +1,26 @@
-.container {
-	width: 100%;
-	position: relative;
-	top: -2px;
-	display: flex;
-	justify-content: space-between;
-	z-index: 99;
-}
 
-.line {
-	width: 266px;
+
+.title::before,
+.title::after {
+	content: '';
+	flex: 1;
 	height: 4px;
+	width: 15px;
 	background-color: #fff;
 }
 .title {
-	position: relative;
-	top: -50%;
+	display: flex;
+	align-items: center;
+	font-size: 4vw;
 	transform: translateY(-50%);
 	font-weight: bold;
 	text-align: center;
+	--text-divider-gap: 1rem;
+}
+.title::before {
+	margin-right: var(--text-divider-gap);
+}
+
+.title::after {
+	margin-left: var(--text-divider-gap);
 }
