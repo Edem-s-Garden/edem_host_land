@@ -10,7 +10,7 @@
 	);
 }
 .wrapper {
-	width: 1120px;
+	max-width: 1120px;
 	margin: 0 auto;
 }
 .landing {
@@ -65,5 +65,14 @@
 	}
 	100% {
 		transform: translateY(0) rotate(-8deg);
+	}
+}
+
+@media (max-width: 1100px) {
+	.landing {
+		grid-template-columns: 1fr;
+	}
+	.imgs {
+		display: none;
 	}
 }

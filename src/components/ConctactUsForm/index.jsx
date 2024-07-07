@@ -24,7 +24,7 @@ function ConctactUsForm() {
 						name='question'
 						className={styles.question}
 						placeholder='Type your question'></textarea>
-					<Button title={'SUBMIT'} width={480} height={80} insetValue={'30em'} />
+					<Button title={'SUBMIT'} height={80}  insetValue={'30em'} />
 				</form>
 			</div>
 		</div>

@@ -1,4 +1,6 @@
 .container {
+    display: flex;
+    flex-direction: column;
     height: 104px;
     background: linear-gradient(135deg,
             #250E4B 0%,
@@ -6,9 +8,9 @@
             #2D145A 100%);
 }
 
-.copy {
-    font-size: 19px;
-    font-weight: 200;
+.copyright {
+    font-size: 2vh;
+    font-weight: 300;
     text-align: center;
     margin: 34px;
 }

@@ -8,7 +8,9 @@ function WhySection() {
 	return (
 		<div id='why_section' className={styles.container}>
 			<Divider title={"WHY EDEM'S GARDEN?"} />
-			<div className={styles.reasons}>
+			<div className={styles.scroll}>
+				<div className={styles.reasons}>
+
 				{reasons.map((reason) => {
 					return (
 						<Card
@@ -21,6 +23,7 @@ function WhySection() {
 						/>
 					)
 				})}
+				</div>
 			</div>
 		</div>
 	)

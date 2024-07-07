@@ -2,8 +2,28 @@
 	height: 472px;
 	background: linear-gradient(135deg, #4e2c85 0%, #593691 50%, #3d226a 100%);
 }
+.scroll {
+	display: flex;
+	flex-direction: row;
+	padding: 30px 0px;
+
+}
 .reasons {
 	display: flex;
 	flex-direction: row;
 	justify-content: space-evenly;
+	width: 100%;
+}
+@media (max-width: 1300px) {
+	.scroll {
+		overflow-x: scroll;	
+		scrollbar-width: none;
+	}
+
+	.reasons{
+		flex-wrap: nowrap;
+		width: auto;
+
+	}
+	
 }
