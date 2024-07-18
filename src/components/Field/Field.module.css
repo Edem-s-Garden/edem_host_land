@@ -1,5 +1,6 @@
 /* stylelint-disable selector-class-pattern */
 .container {
+  position: relative;
   padding: 10px 15px;
   background-color: #593691;
   border-radius: 36px;
@@ -8,6 +9,7 @@
   box-shadow: 0 0 0 0 #290b4d;
   border: 4px solid white;
   transition: all 0.3s;
+  margin: 0 4px;
 
   &:hover {
     transform: translateY(-10px);
@@ -49,4 +51,17 @@
 
 .text {
   font-size: 18px;
+  
+}
+@media (max-width: 1300px) {
+  .container {
+
+    margin: 0 10px;
+
+    &:hover {
+      transform: none;
+      box-shadow: none;
+    }
+  }
+
 }

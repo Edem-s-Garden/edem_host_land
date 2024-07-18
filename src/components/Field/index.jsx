@@ -4,7 +4,7 @@ import styles from './Field.module.css'
 const Field = ({ width, height, title, text, icon }) => {
 	const containerStyle = {
 		width: `${width}px`,
-		height: `${height}px`,
+		minHeight: `${height}px`,
 	}
 
 	return (

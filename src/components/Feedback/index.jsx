@@ -8,9 +8,10 @@ import Button from '../ui/Button'
 function Feedback() {
 	return (
 		<div id='feedback' className={styles.container}>
-			<Divider title={'REVIEWS'}  />
-			<div className='field_container'>
-				<div className={styles.comments}>
+			<Divider title={'REVIEWS'} />
+			<div className={styles.scroll}>
+				<div className={styles.field_container}>
+					<div className={styles.comments}>
 					{comments.slice(0, comments.length / 2).map((comment) => {
 						return (
 							<Field
@@ -19,7 +20,7 @@ function Feedback() {
 								text={comment.text}
 								icon={comment.icon}
 								width={428}
-								height={164}
+								height={200}
 							/>
 						)
 					})}
@@ -33,10 +34,11 @@ function Feedback() {
 								text={comment.text}
 								icon={comment.icon}
 								width={428}
-								height={164}
+								height={200}
 							/>
 						)
 					})}
+					</div>
 				</div>
 			</div>
 		</div>
