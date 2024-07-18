@@ -14,7 +14,6 @@
 .scroll {
   display: flex;
   flex-direction: row;
-  padding: 30px 0px;
 
 }
 /* stylelint-disable-next-line selector-class-pattern */
@@ -40,6 +39,7 @@
   .scroll {
     overflow-x: scroll;
     scrollbar-width: none;
+    padding: 30px 0px;
   }
 
   .field_container {
