@@ -22,7 +22,7 @@ function Button({ title, width, height, insetValue }) {
 	}
 
 	return (
-		<div
+		<button
 			className={styles.container}
 			style={containerStyle}
 			onMouseEnter={handleMouseEnter}
@@ -30,7 +30,7 @@ function Button({ title, width, height, insetValue }) {
 			<span className={styles.title} onClick={handleClick}>
 				{title}
 			</span>
-		</div>
+		</button>
 	)
 }
 
