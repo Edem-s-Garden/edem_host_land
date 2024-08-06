@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/edem_host/static/css/main.20fced04.css",
+    "main.css": "/edem_host/static/css/main.a6d1c076.css",
     "main.js": "/edem_host/static/js/main.08abf001.js",
     "static/media/camera.png": "/edem_host/static/media/camera.dad1bba7051894e00576.png",
     "static/media/paint.png": "/edem_host/static/media/paint.7cc5afbf1fd988995379.png",
@@ -9,11 +9,11 @@
     "static/media/monitor.png": "/edem_host/static/media/monitor.47a7bfbcbbcdcf13e4dd.png",
     "static/media/contactUs.png": "/edem_host/static/media/contactUs.88f427ea44d3532076b1.png",
     "index.html": "/edem_host/index.html",
-    "main.20fced04.css.map": "/edem_host/static/css/main.20fced04.css.map",
+    "main.a6d1c076.css.map": "/edem_host/static/css/main.a6d1c076.css.map",
     "main.08abf001.js.map": "/edem_host/static/js/main.08abf001.js.map"
   },
   "entrypoints": [
-    "static/css/main.20fced04.css",
+    "static/css/main.a6d1c076.css",
     "static/js/main.08abf001.js"
   ]
 }
