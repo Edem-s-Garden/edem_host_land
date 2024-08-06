@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/edem_host/static/css/main.b450f9aa.css",
-    "main.js": "/edem_host/static/js/main.d1b0d4f0.js",
-    "static/media/camera.png": "/edem_host/static/media/camera.dad1bba7051894e00576.png",
-    "static/media/paint.png": "/edem_host/static/media/paint.7cc5afbf1fd988995379.png",
-    "static/media/lock.png": "/edem_host/static/media/lock.8aa47b02c839839e492c.png",
-    "static/media/keyboard.png": "/edem_host/static/media/keyboard.811d65e1e006256d6869.png",
-    "static/media/monitor.png": "/edem_host/static/media/monitor.47a7bfbcbbcdcf13e4dd.png",
-    "static/media/contactUs.png": "/edem_host/static/media/contactUs.88f427ea44d3532076b1.png",
-    "index.html": "/edem_host/index.html",
-    "main.b450f9aa.css.map": "/edem_host/static/css/main.b450f9aa.css.map",
-    "main.d1b0d4f0.js.map": "/edem_host/static/js/main.d1b0d4f0.js.map"
+    "main.css": "/edem_host_land/static/css/main.b450f9aa.css",
+    "main.js": "/edem_host_land/static/js/main.d1666a3b.js",
+    "static/media/camera.png": "/edem_host_land/static/media/camera.dad1bba7051894e00576.png",
+    "static/media/paint.png": "/edem_host_land/static/media/paint.7cc5afbf1fd988995379.png",
+    "static/media/lock.png": "/edem_host_land/static/media/lock.8aa47b02c839839e492c.png",
+    "static/media/keyboard.png": "/edem_host_land/static/media/keyboard.811d65e1e006256d6869.png",
+    "static/media/monitor.png": "/edem_host_land/static/media/monitor.47a7bfbcbbcdcf13e4dd.png",
+    "static/media/contactUs.png": "/edem_host_land/static/media/contactUs.88f427ea44d3532076b1.png",
+    "index.html": "/edem_host_land/index.html",
+    "main.b450f9aa.css.map": "/edem_host_land/static/css/main.b450f9aa.css.map",
+    "main.d1666a3b.js.map": "/edem_host_land/static/js/main.d1666a3b.js.map"
   },
   "entrypoints": [
     "static/css/main.b450f9aa.css",
-    "static/js/main.d1b0d4f0.js"
+    "static/js/main.d1666a3b.js"
   ]
 }
