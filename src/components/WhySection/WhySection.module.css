@@ -17,7 +17,6 @@
 @media (max-width: 1300px) {
 	.scroll {
 		overflow-x: scroll;	
-		scrollbar-width: none;
 	}
 
 	.reasons{

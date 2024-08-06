@@ -8,7 +8,7 @@
   
   flex-direction: row;
   justify-content: space-around;
-  margin-bottom: 50px;
+  margin-bottom: 40px;
 }
 
 .scroll {
@@ -29,17 +29,10 @@
   margin-top: 100px;
 }
 
-@media (max-width: 1260px) {
-  .container{
-  height: 60vh; 
- }
-
-}
 @media (max-width: 1200px) {
   .scroll {
     overflow-x: scroll;
-    scrollbar-width: none;
-    padding: 30px 0px;
+    padding: 10px 0px;
   }
 
   .field_container {
